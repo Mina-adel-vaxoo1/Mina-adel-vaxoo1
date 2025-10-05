@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Mina Adel
 
-<!--
-**Mina-adel-vaxoo1/Mina-adel-vaxoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a macOS & iOS developer currently building **Swift XMPP Client** 💬 —  
+a native chat client written in **Swift** for secure XMPP messaging.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+
+![Mina Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mina-adel-vaxoo1&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-adel-vaxoo1&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Featured Project
+
+👉 [**Swift XMPP Client**](https://github.com/Mina-adel-vaxoo1/Swift-XMPP-client-)  
+A fast and native XMPP client written in Swift using SwiftUI.
+
+---
+
+### 💬 Connect
+💻 [GitHub Profile](https://github.com/Mina-adel-vaxoo1)  
+📧 mina@example.com
